@@ -8,7 +8,7 @@
 
 
 ## Contexte
-
+Projet réalisé dans le cadre de la formation Data analyst chez OpenClassrooms.
 Data analyst au sein du service Marketing du Grand Marché, une entreprise de grande distribution dans plusieurs secteurs (nourriture, biens de consommation et high tech). 
 Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 ## Objectifs du projet
